@@ -7,3 +7,6 @@
 [submodule "gamelaneka"]
 	path = gamelaneka
 	url = https://github.com/dendik-creation/gamelaneka
+[submodule "Math-formula"]
+	path = Math-formula
+	url = https://github.com/Decayy25/math-formula.git
